@@ -1,6 +1,6 @@
 # Search Engine
 
-In this project, the dataset was a collection of 144k news articles from the LA Times from 1989-1990. The goal was to implement a search engine from scratch, evaluate different retrieval algorithms ( BooleanAND, basic TF.IDF, BM25, Cosine Similarity), and compare the results.
+In this project, we used a dataset of 144,000 news articles from the LA Times published between 1989 and 1990. Our goal was to implement a search engine from scratch, evaluate various retrieval algorithms (Boolean AND, basic TF-IDF, BM25, Cosine Similarity), and compare their results.
 
 ## Installation Requirements
 - Python 3.x

@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> LA010189-0001 </DOCNO>
+<HEADLINE>
+<P>
+Doc 1 has a
+multiline headline with tags.
+</P>
+</HEADLINE>
+<TEXT>
+A b c d. A a b.
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> LA011290-1001 </DOCNO>
+<HEADLINE>Doc 2</HEADLINE>
+<TEXT>
+B a c. C a b.
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> LA051191-1000 </DOCNO>
+<HEADLINE>Doc 3</HEADLINE>
+<TEXT>
+B a c. C a b. blablabla
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> LA051191-1001 </DOCNO>
+<HEADLINE>Doc 4</HEADLINE>
+<TEXT>
+D a da daji d
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> LA051191-1002 </DOCNO>
+<HEADLINE>Doc 5</HEADLINE>
+<TEXT>
+a d a d a c
+</TEXT>
+</DOC>

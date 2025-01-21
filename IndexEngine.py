@@ -2,7 +2,6 @@ import gzip
 import sys
 import os
 import json
-import re
 from collections import defaultdict
 
 from utils import get_text_from_document, extract_document_metadata, format_date, save_document_to_storage, tokenize

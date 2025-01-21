@@ -1,6 +1,5 @@
 import sys
 import re
-from collections import defaultdict
 import os
 import json
 
